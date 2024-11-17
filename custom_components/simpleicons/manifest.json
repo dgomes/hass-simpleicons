@@ -9,7 +9,7 @@
     ],
     "codeowners": [],
     "requirements": [
-        "simpleicons==7.14.0"
+        "simplepycons"
     ],
     "config_flow": true,
     "version": "0.0.0"
